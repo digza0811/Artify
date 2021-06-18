@@ -1,0 +1,57 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.heading
+{
+    text-align: center;
+    font-size: 30px;
+    background-color: #C70039;
+    color: #fff ;
+    padding: 10px; 
+    
+}
+.content
+{
+    margin-right: 50px;
+    font-weight: 200;
+    font-size: 20px;
+    
+}
+
+.list1
+{
+    list-style-type: none;
+   
+}
+
+.list1 h3
+{
+    text-align: center;
+    color: #fff;
+    background-color: #C70039;
+    padding: 10px;
+}
+
+.list2
+{
+    list-style-image: url(star-half.svg)
+}
+
+.list3
+{
+    list-style-image: url(sym.svg)
+}
+
+a
+{
+    text-decoration: none;
+    color: #C70039;
+}
+
+a:hover
+{
+    font-weight: bold;
+}
